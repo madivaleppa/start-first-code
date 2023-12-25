@@ -1,0 +1,10 @@
+hellod abhishel hello madivaleppa 
+abhidadigundi:wq
+asdgdfgheiih:
+hello i am abhi
+HI I AM MADI
+#include<stdio.h>
+int main()
+{
+    printf("hello world");
+}
